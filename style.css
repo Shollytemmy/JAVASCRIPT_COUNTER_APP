@@ -34,14 +34,18 @@ button{
 width: 100px;
 padding: 15px;
 cursor: pointer;
+background-color: hsl(0, 0%, 10%);
+color: hsl(50, 50%, 100%);;
 
 border-radius: 5px;
 font-size: 18px;
+border: none;
 
 }
 
 .container .control > .btn:hover{
-    background-color: darkgrey;
+    background-color: rgb(253, 7, 7);
+    color: hsl(50, 50%, 100%);
 }
 
 .container > .count{
