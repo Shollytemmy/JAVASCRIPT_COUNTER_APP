@@ -13,7 +13,7 @@ button{
 }
 
 .container{
-    border: 0px solid red;
+    border: 1px solid red;
     height: 70vh;
     width: 50%;
     display: flex;
@@ -28,7 +28,7 @@ button{
     display: flex;
     justify-content: center;
     gap: 10px;
-    border: 1px solid red;
+    border: 0px solid red;
 }
 
 .container .control > .btn{
