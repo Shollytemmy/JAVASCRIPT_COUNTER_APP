@@ -63,3 +63,8 @@ border: none;
 h1{
     font-size: 30px;
 }
+
+container > .control{
+    gap: 5px;
+}
+
