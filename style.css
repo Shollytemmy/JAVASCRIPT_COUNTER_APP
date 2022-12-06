@@ -65,7 +65,7 @@ h1{
     font-size: 30px;
 }
 
-container > .control .btn{
-    gap: 10px;
+container > .control > .btn{
+    margin-right: 10px;
 }
 
