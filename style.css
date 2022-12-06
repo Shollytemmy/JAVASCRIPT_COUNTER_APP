@@ -27,7 +27,7 @@ button{
 .container > .control{
     display: flex;
     justify-content: center;
-    gap: 3px;
+    gap: 10px;
     border: 1px solid red;
 }
 
